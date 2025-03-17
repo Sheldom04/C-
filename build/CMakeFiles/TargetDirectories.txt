@@ -1,0 +1,3 @@
+/home/sheldom/github/my_code/server_and_client/thread_pool_v1.4/build/CMakeFiles/rebuild_cache.dir
+/home/sheldom/github/my_code/server_and_client/thread_pool_v1.4/build/CMakeFiles/server_app.dir
+/home/sheldom/github/my_code/server_and_client/thread_pool_v1.4/build/CMakeFiles/edit_cache.dir

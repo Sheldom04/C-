@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/server_app.dir/web_server/web_server.cpp.o CMakeFiles/server_app.dir/thread_pool/thread_pool.cpp.o CMakeFiles/server_app.dir/fiber/fiber.cpp.o CMakeFiles/server_app.dir/timer/timer.cpp.o CMakeFiles/server_app.dir/main.cpp.o  -o server_app -lpthread 
